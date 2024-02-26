@@ -1,0 +1,1 @@
+a = list(input()); print("YES") if a.count("4")+a.count("7") in [4,7] else print("NO")

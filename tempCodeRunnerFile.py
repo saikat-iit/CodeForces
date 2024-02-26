@@ -1,4 +1,1 @@
-from collections import Counter
-s = "saikat"
-d = dict(Counter(s))
-print(d)
+bytes(ans, 'utf-8')
